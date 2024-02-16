@@ -1,0 +1,17 @@
+C:\Users\Nando\source\repos\Hotel Reservation\bin\Debug\net7.0-windows\Hotel Reservation.exe
+C:\Users\Nando\source\repos\Hotel Reservation\bin\Debug\net7.0-windows\Hotel Reservation.deps.json
+C:\Users\Nando\source\repos\Hotel Reservation\bin\Debug\net7.0-windows\Hotel Reservation.runtimeconfig.json
+C:\Users\Nando\source\repos\Hotel Reservation\bin\Debug\net7.0-windows\Hotel Reservation.dll
+C:\Users\Nando\source\repos\Hotel Reservation\bin\Debug\net7.0-windows\Hotel Reservation.pdb
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.vbproj.AssemblyReference.cache
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel_Reservation.Form1.resources
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.vbproj.GenerateResource.cache
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.AssemblyInfoInputs.cache
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.AssemblyInfo.vb
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.vbproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.dll
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\refint\Hotel Reservation.dll
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.pdb
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\Hotel Reservation.genruntimeconfig.cache
+C:\Users\Nando\source\repos\Hotel Reservation\obj\Debug\net7.0-windows\ref\Hotel Reservation.dll
